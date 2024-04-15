@@ -1,0 +1,13 @@
+Day 1:
+1.Intro to React
+2.CDN link
+3.React,ReactDom
+4.createElement,createRoot(domnode);
+5.Node Installation (day1.js)
+6.Bundler
+7.Babel compiler
+8.JSX and rules
+
+Day 2:
+1.Components ->Functional,Class
+2.Functional Component (functionComp)
